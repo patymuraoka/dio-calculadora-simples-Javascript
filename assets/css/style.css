@@ -1,0 +1,55 @@
+.calc {
+    margin: 10px auto 10px auto;
+    width: 40%;
+    border: solid black 1px;
+    padding: 3%;
+    background-color: lightyellow;
+}
+ 
+h1 {
+     font-size: 100%;
+     font-weight: bold;
+     text-align: center;
+     padding: 6px;
+}
+ 
+.campo {
+     display: block;
+     font-size: 100%;
+     margin-top: 10px;
+     color: black;
+}
+
+p{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+ 
+.botoes{
+     margin:10px 0 10px 0
+}
+ 
+.res{
+     margin-top: 10px;
+     padding: 6px;
+     margin-right: 48%;
+     display: inline;
+}
+        
+button {
+            background-color: #b1dbf3 ;
+        
+        
+}
+
+span {
+    color: maroon;
+    font-weight: bolder;
+}
+    
+    
+
+   
+
+    
+  
